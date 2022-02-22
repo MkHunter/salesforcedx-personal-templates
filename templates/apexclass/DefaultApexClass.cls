@@ -1,6 +1,6 @@
 /*
 *   Author: MkHunter
-*   Description:- Class
+*   Description:- <%= apiName %> Class
 *   Created:- //
 *   Last Updated:- //
 */
